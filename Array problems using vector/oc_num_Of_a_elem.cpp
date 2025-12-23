@@ -1,3 +1,4 @@
+//Number of occurance of a number.
 #include<iostream>
 #include<vector>
 using namespace std;
